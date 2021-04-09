@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KLing\\C#\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {}
+    "E:\\KLing\\C#\\C# Fundamentals\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {}
   },
   "projects": {
-    "E:\\KLing\\C#\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {
+    "E:\\KLing\\C#\\C# Fundamentals\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KLing\\C#\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectUniqueName": "E:\\KLing\\C#\\C# Fundamentals\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
         "projectName": "Gradebook",
-        "projectPath": "E:\\KLing\\C#\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectPath": "E:\\KLing\\C#\\C# Fundamentals\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
         "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\KLing\\C#\\Gradebook\\src\\Gradebook\\obj\\",
+        "outputPath": "E:\\KLing\\C#\\C# Fundamentals\\Gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
