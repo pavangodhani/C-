@@ -34,6 +34,7 @@ namespace Gradebook
                 catch (ArgumentException ex) // its catch exception whenever argument exception occure
                 {
                     System.Console.WriteLine(ex.Message);
+                    throw;
 
                 }
                 catch (FormatException ex) // its catch exception whenever format exception occure
@@ -54,10 +55,12 @@ namespace Gradebook
 
             var stats = book.GetStatistics();
 
+            System.Console.WriteLine($"{book.Name}");
             System.Console.WriteLine($"low : {stats.Low}");
             System.Console.WriteLine($"high : {stats.High}");
             System.Console.WriteLine($"Avg : {stats.Average}");
             System.Console.WriteLine($"Letter : {stats.Letter}");
+
         }
     }
 }

@@ -14,13 +14,13 @@ namespace GradeBook
 
         public void AddGrade(double grade)
         {
-            if (grade >= 1 && grade <= 100)
+            if (grade >= 0 && grade <= 100)
             {
                 grades.Add(grade);
             }
             else
             {
-                throw new ArgumentException($"Invalid {nameof(grade)}"); 
+                throw new ArgumentException($"Invalid {nameof(grade)}");
                 //nameof keyword takes name of var,mathods or anything its covert into string representation of the symbol...
             }
         }
@@ -48,7 +48,7 @@ namespace GradeBook
             switch (result.Average)
             {
                 case var d when d >= 90.0:
-                //here first store value of result.Average in d veriable and check the condition which written after when keyword...
+                    //here first store value of result.Average in d veriable and check the condition which written after when keyword...
                     result.Letter = 'A';
                     break;
 
@@ -74,7 +74,33 @@ namespace GradeBook
         }
 
         private List<double> grades;
-        public string Name;
+
+        public String Name //This is way of Defining Properties...
+        {
+            // get
+            // {
+            //     return name;
+            // }
+            // set
+            // {
+            //     if (!String.IsNullOrEmpty(value))
+            //     {
+            //         name = value;
+            //     }
+            //     else
+            //     {
+            //         throw new ArgumentException("Name not allowed to empty");
+            //     }
+            // }
+
+            //These is short cut of get and set of any property...
+            get;
+            private set; // Now we can not override the value of name... //its also seems like a readonly...
+        }
+
+        readonly string category = "Science"; //A readonly field cannot be assigned to (except in a constructor or init-only setter of the type in which the field is defined or a variable initializer)
+
+        public const string CATEGORY = "Science"; //Developer use naming convention of const field in upperCase...
     }
 
 }
