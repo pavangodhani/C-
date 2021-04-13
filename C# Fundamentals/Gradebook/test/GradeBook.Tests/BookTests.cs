@@ -24,6 +24,7 @@ namespace GradeBook.Tests
             Assert.Equal(85.6, result.Average, 1);
             Assert.Equal(90.5, result.High, 1);
             Assert.Equal(77.3, result.Low, 1); //thired parameter is how many decimal no we want
+            Assert.Equal('B', result.Letter);
         }
     }
 }
