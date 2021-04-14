@@ -16,6 +16,12 @@ namespace Gradebook
             // book.AddGrade(78.78);
             // book.AddGrade(90);
 
+            book.GradeAdded -= OnGradeAdded;
+            book.GradeAdded += OnGradeAdded;
+            book.GradeAdded += OnGradeAdded;
+            book.GradeAdded += OnGradeAdded;
+            book.GradeAdded += TestGradeAdded;
+
             while (true)
             {
                 System.Console.WriteLine("Enter a grade or 'q' for quit");
@@ -29,6 +35,7 @@ namespace Gradebook
                 try
                 {
                     var grade = double.Parse(input); //Convert string type input into double type
+                    
                     book.AddGrade(grade);
                 }
                 catch (ArgumentException ex) // its catch exception whenever argument exception occure
@@ -61,6 +68,16 @@ namespace Gradebook
             System.Console.WriteLine($"Avg : {stats.Average}");
             System.Console.WriteLine($"Letter : {stats.Letter}");
 
+        }
+
+        static void OnGradeAdded(object sender, EventArgs e)
+        {
+            System.Console.WriteLine("A grade was added...");
+        }
+
+        static void TestGradeAdded(object sender, EventArgs e)
+        {
+            System.Console.WriteLine("This is test...");
         }
     }
 }

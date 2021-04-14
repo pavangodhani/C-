@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
+    public delegate void GradeAddDelegate(object sender, EventArgs args); //Defining a delegate for add grade event...
+
     public class Book //By default its internal
     {
 
@@ -17,13 +19,20 @@ namespace GradeBook
             if (grade >= 0 && grade <= 100)
             {
                 grades.Add(grade);
+
+                if(GradeAdded != null)
+                {
+                    GradeAdded(this, new EventArgs());
+                }
             }
             else
             {
                 throw new ArgumentException($"Invalid {nameof(grade)}");
-                //nameof keyword takes name of var,mathods or anything its covert into string representation of the symbol...
+                // 'nameof' keyword takes name of var,mathods or anything its covert into string representation of the symbol...
             }
         }
+
+        public event GradeAddDelegate GradeAdded; 
 
         public Statistics GetStatistics()
         {
@@ -95,7 +104,8 @@ namespace GradeBook
 
             //These is short cut of get and set of any property...
             get;
-            private set; // Now we can not override the value of name... //its also seems like a readonly...
+            set;
+            // private set; // Now we can not override the value of name... //its also seems like a readonly or constant...
         }
 
         readonly string category = "Science"; //A readonly field cannot be assigned to (except in a constructor or init-only setter of the type in which the field is defined or a variable initializer)

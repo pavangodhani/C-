@@ -4,9 +4,37 @@ using Xunit;
 namespace GradeBook.Tests
 {
 
+    public delegate string WriteLogDelegate(string logMessage); //Systax of defining delegate... //work of delegate here is pointing to the function which return type and parameter type are string... //delegate give the ability to declare a variable that I can use like a method
 
     public class TypeTests
     {
+        int count;
+
+        [Fact]
+        public void WriteLogDelegateCanPointToMethod()
+        {
+            WriteLogDelegate log = ReturnMessage; //create a log veriable which type is WriteLogDelegate and it's seems like a pointer... 
+
+            // log = new WriteLogDelegate(ReturnMessage);// long way 
+            log += ReturnMessage;
+            log += IncrementCount; 
+
+            var result = log("Hello !");
+
+            // Assert.Equal("Hello !", result);
+            Assert.Equal(3, count);
+        }
+
+        private string IncrementCount(string message)
+        {
+            count++;
+            return message.ToLower();
+        }
+        private string ReturnMessage(string message)
+        {
+            count++;
+            return message;
+        }
 
         [Fact]
         public void ValueTypesAlsoPassByValue()
