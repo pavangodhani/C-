@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace GradeBook
 {
@@ -36,13 +37,53 @@ namespace GradeBook
         {
         }
 
-        public virtual event GradeAddDelegate GradeAdded;
+        public abstract event GradeAddDelegate GradeAdded;
 
         public abstract void AddGrade(double grade); //abstract mathods are by default virtual... 
 
-        public virtual Statistics GetStatistics() //'Virtual' keyword is a way in C# of saying here's a method that's in this class but derived class might choose to override the implementation details for this method...   
+        public abstract Statistics GetStatistics();
+
+
+        // public virtual Statistics GetStatistics() //'Virtual' keyword is a way in C# of saying here's a method that's in this class but derived class might choose to override the implementation details for this method...   
+
+    }
+
+    public class DiskBook : Book
+    {
+        public DiskBook(string name) : base(name)
         {
-            throw new NotImplementedException();
+        }
+
+        public override event GradeAddDelegate GradeAdded;
+
+        public override void AddGrade(double grade)
+        {
+            using (var writer = File.AppendText($"{Name}.txt"))
+            {
+                writer.WriteLine(grade);
+                if (GradeAdded != null)
+                {
+                    GradeAdded(this, new EventArgs());
+                }
+            }
+        }
+
+        public override Statistics GetStatistics()
+        {
+            var result = new Statistics();
+
+            using (var reader = File.OpenText($"{Name}.txt"))
+            {
+                var line = reader.ReadLine();
+
+                while (line != null)
+                {
+                    var number = double.Parse(line);
+                    result.Add(number);
+                    line = reader.ReadLine();
+                }
+            }
+            return result;
         }
     }
 
@@ -80,46 +121,48 @@ namespace GradeBook
         {
             var result = new Statistics();
 
-            result.Average = 0.0;
-            result.High = double.MinValue;
-            result.Low = double.MaxValue;
+            // // result.Average = 0.0;
+            // result.High = double.MinValue;
+            // result.Low = double.MaxValue;
 
 
             foreach (var grade in grades)
             {
-                result.High = Math.Max(result.High, grade);
-                result.Low = Math.Min(result.Low, grade);
+                result.Add(grade);
 
-                result.Average += grade;
+                // result.High = Math.Max(result.High, grade);
+                // result.Low = Math.Min(result.Low, grade);
 
-            }
-
-            result.Average = result.Average / grades.Count;
-
-            switch (result.Average)
-            {
-                case var d when d >= 90.0:
-                    //here first store value of result.Average in d veriable and check the condition which written after when keyword...
-                    result.Letter = 'A';
-                    break;
-
-                case var d when d >= 80.0:
-                    result.Letter = 'B';
-                    break;
-
-                case var d when d >= 70.0:
-                    result.Letter = 'C';
-                    break;
-
-                case var d when d >= 60:
-                    result.Letter = 'D';
-                    break;
-
-                default:
-                    result.Letter = 'F';
-                    break;
+                // result.Average += grade;
 
             }
+
+            // result.Average = result.Average / grades.Count;
+
+            // switch (result.Average)
+            // {
+            //     case var d when d >= 90.0:
+            //         //here first store value of result.Average in d veriable and check the condition which written after when keyword...
+            //         result.Letter = 'A';
+            //         break;
+
+            //     case var d when d >= 80.0:
+            //         result.Letter = 'B';
+            //         break;
+
+            //     case var d when d >= 70.0:
+            //         result.Letter = 'C';
+            //         break;
+
+            //     case var d when d >= 60:
+            //         result.Letter = 'D';
+            //         break;
+
+            //     default:
+            //         result.Letter = 'F';
+            //         break;
+
+            // }
 
             return result;
         }

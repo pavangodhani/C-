@@ -8,7 +8,7 @@ namespace Gradebook
         static void Main(string[] args)
         {
 
-            var book = new InMemoryBook("Nobita's grade book");
+            IBook book = new DiskBook("Nobita's grade book");
 
             // book.AddGrade(89.1);
             // book.AddGrade(97.53);
@@ -34,7 +34,7 @@ namespace Gradebook
 
         }
 
-        private static void EnterGrades(InMemoryBook book)
+        private static void EnterGrades(IBook book)
         {
             while (true)
             {
