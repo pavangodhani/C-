@@ -5,22 +5,64 @@ namespace GradeBook
 {
     public delegate void GradeAddDelegate(object sender, EventArgs args); //Defining a delegate for add grade event...
 
-    public class Book //By default its internal
+    public class NameObject //Create a class and inheritated in Book class...
+    {
+        public NameObject(string name) //Constructors...
+        {
+            Name = name;
+        }
+
+        public string Name //Property 
+        {
+            get;
+            set;
+        }
+    }
+
+    public interface IBook
+    {
+        void AddGrade(double grade);
+        Statistics GetStatistics();
+        string Name
+        {
+            get;
+        }
+        event GradeAddDelegate GradeAdded;
+    }
+
+    public abstract class Book : NameObject, IBook
+    {
+        protected Book(string name) : base(name)
+        {
+        }
+
+        public virtual event GradeAddDelegate GradeAdded;
+
+        public abstract void AddGrade(double grade); //abstract mathods are by default virtual... 
+
+        public virtual Statistics GetStatistics() //'Virtual' keyword is a way in C# of saying here's a method that's in this class but derived class might choose to override the implementation details for this method...   
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class InMemoryBook : Book //By default its internal
     {
 
-        public Book(string name)
+        //'base()' is reference to the base class in this case it's a Nameobject...and in parentheses what base class need to construct pass it like here we pass name which is string type ...
+        public InMemoryBook(string name) : base(name)
         {
             grades = new List<double>();
             this.Name = name;
         }
 
-        public void AddGrade(double grade)
+        public override void AddGrade(double grade)
         {
             if (grade >= 0 && grade <= 100)
             {
                 grades.Add(grade);
 
-                if(GradeAdded != null)
+                if (GradeAdded != null)
                 {
                     GradeAdded(this, new EventArgs());
                 }
@@ -32,9 +74,9 @@ namespace GradeBook
             }
         }
 
-        public event GradeAddDelegate GradeAdded; 
+        public override event GradeAddDelegate GradeAdded;
 
-        public Statistics GetStatistics()
+        public override Statistics GetStatistics()
         {
             var result = new Statistics();
 
@@ -84,6 +126,7 @@ namespace GradeBook
 
         private List<double> grades;
 
+        /*
         public String Name //This is way of Defining Properties...
         {
             // get
@@ -105,8 +148,10 @@ namespace GradeBook
             //These is short cut of get and set of any property...
             get;
             set;
+            
             // private set; // Now we can not override the value of name... //its also seems like a readonly or constant...
         }
+        */
 
         readonly string category = "Science"; //A readonly field cannot be assigned to (except in a constructor or init-only setter of the type in which the field is defined or a variable initializer)
 

@@ -65,9 +65,9 @@ namespace GradeBook.Tests
             Assert.Equal("New Name", book1.Name);
         }
 
-        private void GetBookSetName(ref Book book, string name) // here ref key word shows that we can't pass the copy of object reference but we pass original reference of that object
+        private void GetBookSetName(ref InMemoryBook book, string name) // here ref key word shows that we can't pass the copy of object reference but we pass original reference of that object
         {
-            book = new Book(name); //here book1 and book both refer same object.
+            book = new InMemoryBook(name); //here book1 and book both refer same object.
         }
 
         // OUT is alternative of ref keyword but in OUT code assumed that incoming reference is not been initialized so it will be an error if you do not assign to an out parameter... 
@@ -81,9 +81,9 @@ namespace GradeBook.Tests
             Assert.Equal("Book 1", book1.Name);
         }
 
-        private void GetBookSetName(Book book, string name)
+        private void GetBookSetName(InMemoryBook book, string name)
         {
-            book = new Book(name); //here book1 and book both refer diff objects.
+            book = new InMemoryBook(name); //here book1 and book both refer diff objects.
         }
 
         [Fact]
@@ -96,7 +96,7 @@ namespace GradeBook.Tests
             Assert.Equal("New Name", book1.Name);
         }
 
-        private void SetName(Book book, string name) //Its work like same below its coping the reference of book1 and its pass to the function here now both book and book1 refer the same obj.
+        private void SetName(InMemoryBook book, string name) //Its work like same below its coping the reference of book1 and its pass to the function here now both book and book1 refer the same obj.
         {
             book.Name = name;
         }
@@ -142,9 +142,9 @@ namespace GradeBook.Tests
             Assert.True(Object.ReferenceEquals(book1, book2)); //Object.ReferenceEquals() is method of Object class which return bool value after check the both vars are refer a same obj or not
         }
 
-        private Book GetBook(string name)
+        private InMemoryBook GetBook(string name)
         {
-            return new Book(name);
+            return new InMemoryBook(name);
         }
     }
 }
