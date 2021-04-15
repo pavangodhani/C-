@@ -1,0 +1,16 @@
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.exe
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.dll
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+E:\KLing\C#\Collections\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.csprojAssemblyReference.cache
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.dll
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+E:\KLing\C#\Collections\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
