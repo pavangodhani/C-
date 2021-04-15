@@ -1,0 +1,16 @@
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.exe
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.deps.json
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.runtimeconfig.json
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.runtimeconfig.dev.json
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.dll
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\ref\List.dll
+E:\KLing\C#\Collections\list\bin\Debug\net5.0\List.pdb
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.csprojAssemblyReference.cache
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.AssemblyInfo.cs
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.dll
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\ref\List.dll
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.pdb
+E:\KLing\C#\Collections\list\obj\Debug\net5.0\List.genruntimeconfig.cache
