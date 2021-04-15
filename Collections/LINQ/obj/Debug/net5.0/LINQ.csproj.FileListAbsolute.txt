@@ -1,0 +1,16 @@
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.exe
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.deps.json
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.json
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev.json
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.dll
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\ref\LINQ.dll
+E:\KLing\C#\Collections\LINQ\bin\Debug\net5.0\LINQ.pdb
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.csprojAssemblyReference.cache
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.dll
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\ref\LINQ.dll
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.pdb
+E:\KLing\C#\Collections\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
