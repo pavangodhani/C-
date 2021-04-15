@@ -1,0 +1,16 @@
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.exe
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.deps.json
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.runtimeconfig.json
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.runtimeconfig.dev.json
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.dll
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\ref\Collections-of-Collections.dll
+E:\KLing\C#\Collections\Collections-of-Collections\bin\Debug\net5.0\Collections-of-Collections.pdb
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.csprojAssemblyReference.cache
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.AssemblyInfoInputs.cache
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.AssemblyInfo.cs
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.dll
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\ref\Collections-of-Collections.dll
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.pdb
+E:\KLing\C#\Collections\Collections-of-Collections\obj\Debug\net5.0\Collections-of-Collections.genruntimeconfig.cache
