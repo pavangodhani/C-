@@ -1,0 +1,16 @@
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.exe
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.deps.json
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.runtimeconfig.json
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.runtimeconfig.dev.json
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.dll
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\ref\AsyncProg.dll
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\bin\Debug\net5.0\AsyncProg.pdb
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.csprojAssemblyReference.cache
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.AssemblyInfoInputs.cache
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.AssemblyInfo.cs
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.dll
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\ref\AsyncProg.dll
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.pdb
+E:\KLing\C#\Asynchronous_Programming\AsyncProg\obj\Debug\net5.0\AsyncProg.genruntimeconfig.cache

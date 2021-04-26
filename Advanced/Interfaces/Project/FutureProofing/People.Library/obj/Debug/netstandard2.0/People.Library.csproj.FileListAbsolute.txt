@@ -1,0 +1,12 @@
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.deps.json
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.dll
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.pdb
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.dll
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.pdb
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csprojAssemblyReference.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfoInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfo.cs
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CopyComplete
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.dll
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.pdb

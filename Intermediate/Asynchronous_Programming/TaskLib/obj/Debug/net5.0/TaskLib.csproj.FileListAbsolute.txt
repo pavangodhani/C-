@@ -1,0 +1,16 @@
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.exe
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.deps.json
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.runtimeconfig.json
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.runtimeconfig.dev.json
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.dll
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\ref\TaskLib.dll
+E:\KLing\C#\Asynchronous_Programming\TaskLib\bin\Debug\net5.0\TaskLib.pdb
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.csprojAssemblyReference.cache
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.AssemblyInfoInputs.cache
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.AssemblyInfo.cs
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.dll
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\ref\TaskLib.dll
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.pdb
+E:\KLing\C#\Asynchronous_Programming\TaskLib\obj\Debug\net5.0\TaskLib.genruntimeconfig.cache

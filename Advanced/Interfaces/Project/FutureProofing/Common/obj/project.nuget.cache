@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLFM0ArEpTDcSd7G3+DlGL0A29IA8syRFtBL0DE9AQfNKx7ux26pnx+P0RDUT8Gd103+grtArwVNv2sYZ4Qr5w==",
+  "success": true,
+  "projectFilePath": "E:\\KLing\\C#\\Advanced\\Interfaces\\Project\\FutureProofing\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pavan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

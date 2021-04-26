@@ -1,0 +1,9 @@
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\bin\Debug\netstandard2.0\Common.deps.json
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\bin\Debug\netstandard2.0\Common.dll
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\bin\Debug\netstandard2.0\Common.pdb
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.dll
+E:\KLing\C#\Advanced\Interfaces\Project\FutureProofing\Common\obj\Debug\netstandard2.0\Common.pdb

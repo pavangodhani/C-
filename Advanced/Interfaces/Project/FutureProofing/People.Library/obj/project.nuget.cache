@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "paxnM1i0fMJMz77soPN8M4POb1Oh7cVeP4iB7K1TxkTxEIay1UOzb2+BfHjsWQeNEnFpS+V/sLy6APLj54Q5eQ==",
+  "success": true,
+  "projectFilePath": "E:\\KLing\\C#\\Advanced\\Interfaces\\Project\\FutureProofing\\People.Library\\People.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pavan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

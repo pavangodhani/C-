@@ -1,0 +1,16 @@
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.exe
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.deps.json
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.runtimeconfig.json
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.runtimeconfig.dev.json
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.dll
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\ref\GameConsole.dll
+E:\KLing\C#\Working-With-Null\GameConsole\bin\Debug\net5.0\GameConsole.pdb
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.csprojAssemblyReference.cache
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.AssemblyInfoInputs.cache
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.AssemblyInfo.cs
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.dll
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\ref\GameConsole.dll
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.pdb
+E:\KLing\C#\Working-With-Null\GameConsole\obj\Debug\net5.0\GameConsole.genruntimeconfig.cache
