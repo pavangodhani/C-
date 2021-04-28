@@ -1,0 +1,16 @@
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.csprojAssemblyReference.cache
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.AssemblyInfoInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.AssemblyInfo.cs
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.exe
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.deps.json
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.runtimeconfig.json
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.runtimeconfig.dev.json
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.dll
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\ref\InterfaceTest.dll
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\bin\Debug\net5.0\InterfaceTest.pdb
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.dll
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\ref\InterfaceTest.dll
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.pdb
+E:\KLing\C#\Advanced\Interfaces\Interface\InterfaceTest\obj\Debug\net5.0\InterfaceTest.genruntimeconfig.cache
