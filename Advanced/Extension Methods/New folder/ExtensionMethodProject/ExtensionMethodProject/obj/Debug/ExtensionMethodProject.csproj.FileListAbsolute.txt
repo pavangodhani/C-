@@ -1,7 +1,0 @@
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.exe.config
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.exe
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.pdb
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csprojAssemblyReference.cache
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csproj.CoreCompileInputs.cache
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.exe
-E:\KLing\C#\Advanced\Extension Methods\New folder\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.pdb
