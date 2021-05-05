@@ -1,0 +1,16 @@
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.exe
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.deps.json
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.runtimeconfig.json
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.runtimeconfig.dev.json
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\ref\StackProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\bin\Debug\net5.0\StackProj.pdb
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.csprojAssemblyReference.cache
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.AssemblyInfoInputs.cache
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.AssemblyInfo.cs
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\ref\StackProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.pdb
+E:\KLing\C#\Advanced\Advance Collections\Stacks\StackProj\obj\Debug\net5.0\StackProj.genruntimeconfig.cache

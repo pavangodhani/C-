@@ -8,12 +8,16 @@ namespace InterfaceTest
         {
             ImplementInterfaces Ab = new ImplementInterfaces();
             // Ab.show();
-            Ab.Test();
+            // Ab.Test();
 
             InterfaceTwo I2 = Ab;
-            I2.Test();
+            InterfaceOne I1 = Ab;
 
+            I1.Test();
+            I2.Test();
             I2.show();
+
+            // I2.show();
             
         }
     }

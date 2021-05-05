@@ -1,0 +1,16 @@
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.exe
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.deps.json
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.runtimeconfig.json
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.runtimeconfig.dev.json
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\ref\CollectionsProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\bin\Debug\net5.0\CollectionsProj.pdb
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.csprojAssemblyReference.cache
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.AssemblyInfoInputs.cache
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.AssemblyInfo.cs
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\ref\CollectionsProj.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.pdb
+E:\KLing\C#\Advanced\Advance Collections\Project\CollectionsProj\obj\Debug\net5.0\CollectionsProj.genruntimeconfig.cache

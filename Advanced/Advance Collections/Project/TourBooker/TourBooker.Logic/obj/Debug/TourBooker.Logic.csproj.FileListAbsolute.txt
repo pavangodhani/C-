@@ -1,0 +1,5 @@
+E:\KLing\C#\Advanced\Advance Collections\Project\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+E:\KLing\C#\Advanced\Advance Collections\Project\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+E:\KLing\C#\Advanced\Advance Collections\Project\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+E:\KLing\C#\Advanced\Advance Collections\Project\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
